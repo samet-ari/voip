@@ -1,5 +1,5 @@
-**Documentation VoIP**
-Ce repository contient une documentation complète pour vous guider dans la conception, la mise en place et la sécurisation d'une architecture VoIP (Voice over IP). Que vous soyez administrateur système, ingénieur réseau ou développeur, cette documentation vous accompagnera à chaque étape de votre projet VoIP.
+
+**Ce repository** contient une documentation complète pour vous guider dans la conception, la mise en place et la sécurisation d'une architecture VoIP (Voice over IP). Que vous soyez administrateur système, ingénieur réseau ou développeur, cette documentation vous accompagnera à chaque étape de votre projet VoIP.
 
 **Objectif**
 L'objectif principal de cette documentation est de vous fournir les connaissances et les outils nécessaires pour mettre en place une architecture VoIP robuste et sécurisée. Elle couvre une gamme complète de sujets, de la veille technologique initiale à l'automatisation du déploiement en passant par la configuration détaillée des fonctionnalités.
